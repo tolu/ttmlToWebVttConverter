@@ -1,0 +1,43 @@
+<tt xmlns="http://www.w3.org/ns/ttml" xmlns:tts="http://www.w3.org/2006/04/ttaf1#styling" lang="no">
+  <head>
+    <styling>
+      <style id="italic" tts:fontStyle="italic" />
+      <style id="left" tts:textAlign="left" />
+      <style id="center" tts:textAlign="center" />
+      <style id="right" tts:textAlign="right" />
+    </styling>
+  </head>
+  <body>
+    <div>
+      <p begin="00:00:00.000" dur="00:00:00.000">Copyright (C) NRK</p>
+      <p begin="00:00:08.200" dur="00:00:06.660" style="left">-Jeg er ikke middagen din!<br />-Jeg vet ikke hvem jeg er.</p>
+      <p begin="00:00:15.160" dur="00:00:06.940" style="left">
+        <span style="italic"> -Betjent Jason Stackhouse. </span>
+        <br />-Hvor er du? Du må hjelpe meg.</p>
+      <p begin="00:00:22.400" dur="00:00:04.220" style="left">Takk, åndefar,<br />for at du skjenker oss nytt liv.</p>
+      <p begin="00:00:26.920" dur="00:00:04.540" style="left">Eric må bli hos deg.<br />Ikke si det til Bill.</p>
+      <p begin="00:00:31.760" dur="00:00:06.500" style="left">Vi har et godt forretningssamarbeid.<br />Jeg syns vi skal ha sex også.</p>
+
+
+      <p begin="00:00:38.560" dur="00:00:04.340" style="left">Jeg skal bli ditt redskap<br />på dette planet.</p>
+      <p begin="00:00:43.200" dur="00:00:03.420" style="left">Et offer som passer til magien din.</p>
+      <p begin="00:00:46.920" dur="00:00:05.540" style="left">-Du ville be meg om en tjeneste.<br />-Du må ta deg av Eric Northman.</p>
+      <p begin="00:02:06.720" dur="00:00:05.20" style="left">Nei, du har drukket hele feen.<br />Gå på rommet ditt.</p>
+      <p begin="00:02:12.040" dur="00:00:05.160" style="left">-Drikke deg tom.<br />-Du dreper meg, Eric! Nei!</p>
+      <p begin="00:02:17.880" dur="00:00:04.380" style="left">Jeg ville aldri gjort deg noe vondt.</p>
+      <p begin="00:02:22.560" dur="00:00:05.800" style="left">Nei, det må du ikke.<br />Kom, så skal jeg bre over deg.</p>
+      <p begin="00:02:30.520" dur="00:00:04.140" style="left">-Kløp du meg i rumpa?<br />-Fin rumpe.</p>
+      <p begin="00:02:34.960" dur="00:00:03.200" style="left">Takk, men ikke rør.</p>
+      <p begin="00:02:40.560" dur="00:00:03.100" style="left">-Du er full.<br />-Fang meg.</p>
+      <p begin="00:21:34.920" dur="00:00:04.920" style="left">
+        <span style="italic"> -Hvem er det? </span>
+        <br />-Overraskelse. Det er Sam.</p>
+      <p begin="00:21:41.920" dur="00:00:05.580" style="left">-Hva gjør du her?<br />-Jeg ville hilse på ei vakker jente.</p>
+      <p begin="00:27:16.480" dur="00:00:04.760" style="left">Jeg venter på deg, Jason!<br />Ved fullmåne!</p>
+      <p begin="00:27:22.040" dur="00:00:02.160" style="left">
+        <span style="italic"> Bill? </span>
+      </p>
+      <p begin="00:27:25.200" dur="00:00:04.420" style="left">Du har ikke hørt et ord av det jeg sa.</p>
+    </div>
+  </body>
+</tt>

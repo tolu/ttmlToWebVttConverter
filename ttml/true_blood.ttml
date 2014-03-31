@@ -1,0 +1,431 @@
+<tt xmlns="http://www.w3.org/ns/ttml" xmlns:tts="http://www.w3.org/2006/04/ttaf1#styling" lang="no">
+  <head>
+    <styling>
+      <style id="italic" tts:fontStyle="italic" />
+      <style id="left" tts:textAlign="left" />
+      <style id="center" tts:textAlign="center" />
+      <style id="right" tts:textAlign="right" />
+    </styling>
+  </head>
+  <body>
+    <div>
+      <p begin="00:00:00.000" dur="00:00:00.000">Copyright (C) NRK</p>
+      <p begin="00:00:08.200" dur="00:00:06.660" style="left">-Jeg er ikke middagen din!<br />-Jeg vet ikke hvem jeg er.</p>
+      <p begin="00:00:15.160" dur="00:00:06.940" style="left">
+        <span style="italic"> -Betjent Jason Stackhouse. </span>
+        <br />-Hvor er du? Du må hjelpe meg.</p>
+      <p begin="00:00:22.400" dur="00:00:04.220" style="left">Takk, åndefar,<br />for at du skjenker oss nytt liv.</p>
+      <p begin="00:00:26.920" dur="00:00:04.540" style="left">Eric må bli hos deg.<br />Ikke si det til Bill.</p>
+      <p begin="00:00:31.760" dur="00:00:06.500" style="left">Vi har et godt forretningssamarbeid.<br />Jeg syns vi skal ha sex også.</p>
+      <p begin="00:00:38.560" dur="00:00:04.340" style="left">Jeg skal bli ditt redskap<br />på dette planet.</p>
+      <p begin="00:00:43.200" dur="00:00:03.420" style="left">Et offer som passer til magien din.</p>
+      <p begin="00:00:46.920" dur="00:00:05.540" style="left">-Du ville be meg om en tjeneste.<br />-Du må ta deg av Eric Northman.</p>
+      <p begin="00:00:52.760" dur="00:00:02.340" style="left">Jeg trodde du var død.</p>
+      <p begin="00:00:55.400" dur="00:00:07.940" style="left">Maxine Fortenberry kan selge naturgass-<br />rettighetene sine for mye penger.</p>
+      <p begin="00:01:03.640" dur="00:00:05.720" style="left">Fortell Maxine om naturgasstilbudet,<br />ellers gjør jeg det.</p>
+      <p begin="00:01:10.360" dur="00:00:06.100" style="left">-Dreper du oss, kan vi ikke redde Eric.<br />-Hent den heksa innen et døgn.</p>
+      <p begin="00:01:16.760" dur="00:00:05.740" style="left">Jeg skal hente deg.<br />Vi er familien din. Bli med meg.</p>
+      <p begin="00:01:22.800" dur="00:00:03.080" style="left">Eric!<br />Hold opp!</p>
+      <p begin="00:01:26.600" dur="00:00:04.320" style="left">Du har drept den gode feen min!</p>
+      <p begin="00:01:31.760" dur="00:00:07.320" style="left">Vi er lett bytte her ute hvis noen av<br />Claudines venner kommer. Skynd deg inn.</p>
+      <p begin="00:01:41.640" dur="00:00:03.920" style="left">Vi må ned i krypinnet.<br />Hører du?</p>
+      <p begin="00:01:46.200" dur="00:00:02.400" style="left">Hei.</p>
+      <p begin="00:01:58.960" dur="00:00:02.840" style="left">Hei sann.</p>
+      <p begin="00:02:04.080" dur="00:00:02.340" style="left">Jeg vil ha mer.</p>
+      <p begin="00:02:06.720" dur="00:00:05.20" style="left">Nei, du har drukket hele feen.<br />Gå på rommet ditt.</p>
+      <p begin="00:02:12.040" dur="00:00:05.160" style="left">-Drikke deg tom.<br />-Du dreper meg, Eric! Nei!</p>
+      <p begin="00:02:17.880" dur="00:00:04.380" style="left">Jeg ville aldri gjort deg noe vondt.</p>
+      <p begin="00:02:22.560" dur="00:00:05.800" style="left">Nei, det må du ikke.<br />Kom, så skal jeg bre over deg.</p>
+      <p begin="00:02:30.520" dur="00:00:04.140" style="left">-Kløp du meg i rumpa?<br />-Fin rumpe.</p>
+      <p begin="00:02:34.960" dur="00:00:03.200" style="left">Takk, men ikke rør.</p>
+      <p begin="00:02:40.560" dur="00:00:03.100" style="left">-Du er full.<br />-Fang meg.</p>
+      <p begin="00:02:43.960" dur="00:00:02.380" style="left">Kom hit!</p>
+      <p begin="00:02:46.640" dur="00:00:04.860" style="left">Jeg prøver å hjelpe deg.<br />Skynd deg inn i huset.</p>
+      <p begin="00:02:51.800" dur="00:00:04.440" style="left">-Aldri.<br />-Det er snart soloppgang.</p>
+      <p begin="00:02:58.160" dur="00:00:01.960" style="left">Eric!</p>
+      <p begin="00:04:14.760" dur="00:00:03.000" style="center">Norske tekster: Steinar Fonn</p>
+      <p begin="00:04:25.880" dur="00:00:02.540" style="left">Hvor er Eric?</p>
+      <p begin="00:04:28.720" dur="00:00:05.540" style="left">-Jeg vet ikke.<br />-Ikke lyv for meg. Det er forræderi.</p>
+      <p begin="00:04:34.560" dur="00:00:05.580" style="left">Nettopp. Jeg hadde ikke tatt sjansen.<br />Du er hensynsløs.</p>
+      <p begin="00:04:40.440" dur="00:00:04.220" style="left">Du ville løyet og dødd<br />for skaperen din.</p>
+      <p begin="00:04:44.960" dur="00:00:03.540" style="left">Jeg vet hvor dypt du hater ham.</p>
+      <p begin="00:04:48.800" dur="00:00:06.500" style="left">Jeg trodde du sendte ham til heksene<br />for at de skulle drepe ham.</p>
+      <p begin="00:04:55.600" dur="00:00:03.540" style="left">Si fra når du hører fra ham.</p>
+      <p begin="00:04:59.440" dur="00:00:06.280" style="left">Du liker hvordan den føles,<br />ikke sant, Bill? Den kronen.</p>
+      <p begin="00:05:18.320" dur="00:00:03.60" style="left">-Kom igjen.<br />-Gå vekk.</p>
+      <p begin="00:05:21.680" dur="00:00:04.120" style="left">-Jeg er ikke ferdig ennå.<br />-Gå vekk!</p>
+      <p begin="00:05:35.160" dur="00:00:04.900" style="left">Hvorfor gråter du?<br />Det er jeg som blir voldtatt.</p>
+      <p begin="00:05:40.360" dur="00:00:05.660" style="left">Brormannen min bare biter meg i nakken<br />til det er over.</p>
+      <p begin="00:05:46.320" dur="00:00:03.700" style="left">Du er den beste jeg har hatt.</p>
+      <p begin="00:05:50.320" dur="00:00:02.640" style="left">Neste!</p>
+      <p begin="00:05:54.920" dur="00:00:03.320" style="left">Å, nei.</p>
+      <p begin="00:05:58.600" dur="00:00:06.360" style="left">-Hun er bare ei lita jente!<br />-Blås i det. Yngle, åndefar!</p>
+      <p begin="00:06:06.120" dur="00:00:03.900" style="left">Onkel Felton sier jeg er gammel nok.</p>
+      <p begin="00:06:10.320" dur="00:00:04.520" style="left">-Nei, hold opp!<br />-Ikke kjeft på meg!</p>
+      <p begin="00:06:16.240" dur="00:00:05.200" style="left">Jeg er syk, Becky.<br />Og jeg blir stadig sykere.</p>
+      <p begin="00:06:22.240" dur="00:00:03.620" style="left">Jeg orker ikke mer.</p>
+      <p begin="00:06:26.160" dur="00:00:02.720" style="left">Det må du.</p>
+      <p begin="00:06:32.320" dur="00:00:05.760" style="left">Jeg skjærer av deg dingsen<br />hvis du gjør motstand.</p>
+      <p begin="00:06:40.360" dur="00:00:05.280" style="left">-Har du hatt sex før?<br />-Ja da. Mange ganger.</p>
+      <p begin="00:06:47.720" dur="00:00:04.100" style="left">Nei.<br />Men jeg er ikke redd.</p>
+      <p begin="00:06:52.120" dur="00:00:06.660" style="left">Det skal ikke være sånn.<br />Den første gangen skal være veldig fin.</p>
+      <p begin="00:06:59.080" dur="00:00:04.940" style="left">Med en gutt du liker.<br />Som gir deg gaver.</p>
+      <p begin="00:07:04.320" dur="00:00:03.580" style="left">-Gjør gutter sånt?<br />-Ja visst.</p>
+      <p begin="00:07:08.200" dur="00:00:05.280" style="left">Og du skal elske med ham<br />fordi tiden er moden.</p>
+      <p begin="00:07:14.280" dur="00:00:06.480" style="left">Ikke fordi en svær mann dytter deg<br />inn i et skur og sier at du må.</p>
+      <p begin="00:07:23.040" dur="00:00:06.800" style="left">Jeg har ikke noe lyst til å gjøre det<br />med deg. Ikke i det hele tatt.</p>
+      <p begin="00:07:30.280" dur="00:00:03.480" style="left">Så skjær meg løs.</p>
+      <p begin="00:07:36.760" dur="00:00:04.20" style="left">Jeg er redd for at jeg skal dø her.</p>
+      <p begin="00:07:41.080" dur="00:00:03.240" style="left">Det er jeg også.</p>
+      <p begin="00:07:50.840" dur="00:00:02.680" style="left">Gi meg den.</p>
+      <p begin="00:07:58.120" dur="00:00:04.120" style="left">-Vær forsiktig, Mr. Jason.<br />-Du også.</p>
+      <p begin="00:08:07.680" dur="00:00:06.780" style="left">Jeg prøver å redde stumpene etter<br />at Edgington slaktet en mann på tv.</p>
+      <p begin="00:08:14.760" dur="00:00:05.660" style="left">Og du sendte Eric Northman<br />etter noen wiccanere? Er du gal?</p>
+      <p begin="00:08:20.720" dur="00:00:05.740" style="left">-De er bare noen gamle hippier.<br />-Husk den spanske massakren.</p>
+      <p begin="00:08:26.760" dur="00:00:05.140" style="left">Det er 400 år siden.<br />Én heks som bar nag til vampyrer.</p>
+      <p begin="00:08:32.200" dur="00:00:03.860" style="left">-Det kan skje igjen.<br />-Husker du Salem?</p>
+      <p begin="00:08:36.360" dur="00:00:06.220" style="left">Heksene var bare noen puritanerjenter<br />som trengte å få seg et nummer.</p>
+      <p begin="00:08:42.880" dur="00:00:05.500" style="left">-Åndemanerne er ikke som før, Bill.<br />-Så hvor er Eric?</p>
+      <p begin="00:08:48.680" dur="00:00:05.260" style="left">-Det er ikke mitt problem.<br />-Du gjør en stor tabbe.</p>
+      <p begin="00:08:54.240" dur="00:00:06.60" style="left">Det avgjør ikke du. Jeg kan ikke<br />gå til Styresmakten med det.</p>
+      <p begin="00:09:00.600" dur="00:00:05.340" style="left">-Jeg holder deg bare underrettet.<br />-Greit. Rydd opp i det.</p>
+      <p begin="00:09:06.240" dur="00:00:05.60" style="left">Men ikke skad noen dødelige.<br />Ingen døde mennesker!</p>
+      <p begin="00:09:11.600" dur="00:00:04.100" style="left">Ellers tar jeg knekken på deg.</p>
+      <p begin="00:09:16.000" dur="00:00:04.200" style="left">-Jeg skal ta meg av det selv.<br />-Takk.</p>
+      <p begin="00:09:21.680" dur="00:00:03.980" style="left">-Hvordan gikk henrettelsen?<br />-Glatt.</p>
+      <p begin="00:09:25.960" dur="00:00:03.900" style="left">Stakkars Bill.<br />Makt er et slit.</p>
+      <p begin="00:09:30.160" dur="00:00:05.300" style="left">Ikke spoler det. Hvor mange<br />pensjonerte konger kjenner du?</p>
+      <p begin="00:09:35.760" dur="00:00:03.720" style="left">Jeg skal holde deg orientert.</p>
+      <p begin="00:09:47.640" dur="00:00:04.860" style="left">Det er de døde jeg søker.<br />Kom til meg.</p>
+      <p begin="00:09:52.800" dur="00:00:05.280" style="left">Ei heks må brennes ordentlig.<br />Først leggene.</p>
+      <p begin="00:09:59.240" dur="00:00:02.960" style="left">Så lårene.</p>
+      <p begin="00:10:04.120" dur="00:00:07.040" style="left">Og hendene. Og så overkroppen,<br />overarmene og brystene.</p>
+      <p begin="00:10:12.400" dur="00:00:03.360" style="left">Dette er galskap!</p>
+      <p begin="00:10:16.600" dur="00:00:04.180" style="left">Vi må hindre det!<br />Vi må redde henne!</p>
+      <p begin="00:10:21.080" dur="00:00:05.360" style="left">Hun får ikke dø<br />før ansiktet hennes brenner.</p>
+      <p begin="00:10:35.440" dur="00:00:06.600" style="left">Du tilhører meg! Det er du<br />som skal brenne for syndene dine!</p>
+      <p begin="00:11:22.200" dur="00:00:02.200" style="left">Sookie?</p>
+      <p begin="00:11:25.200" dur="00:00:05.660" style="left">-Hvor er du, Sookie?<br />-Jeg så etter ham i skogen.</p>
+      <p begin="00:11:31.160" dur="00:00:07.440" style="left">-Hvordan kan Eric ferdes i dagslys?<br />-Det er en lang og merkelig historie.</p>
+      <p begin="00:11:39.080" dur="00:00:03.260" style="left">-Sookie.<br />-Unnskyld.</p>
+      <p begin="00:11:42.640" dur="00:00:06.600" style="left">-Jeg er veldig takknemlig for det.<br />-Du hadde hjulpet meg også.</p>
+      <p begin="00:11:51.600" dur="00:00:05.160" style="left">Har du fått ferten av ham?<br />Vent på meg, Alcide!</p>
+      <p begin="00:12:01.480" dur="00:00:04.940" style="left">Sam Merlotte!<br />Hva har du gjort med gutten min?</p>
+      <p begin="00:12:06.720" dur="00:00:03.580" style="left">Jeg aner ikke hvor Hoyt er.</p>
+      <p begin="00:12:10.600" dur="00:00:04.60" style="left">Jeg mener ikke Hoyt.<br />Han er ikke sønnen min.</p>
+      <p begin="00:12:14.960" dur="00:00:04.660" style="left">Tommy Mickens.<br />Hans egen bror, som han skjøt.</p>
+      <p begin="00:12:19.920" dur="00:00:05.60" style="left">-Han er finfin nå.<br />-Nei. Han kom ikke hjem i går.</p>
+      <p begin="00:12:25.280" dur="00:00:03.860" style="left">-Hvor er han?<br />-Jeg aner ikke.</p>
+      <p begin="00:12:29.440" dur="00:00:06.900" style="left">-Du gir blaffen i familien din.<br />-Husk at du fornekter din egen sønn.</p>
+      <p begin="00:12:36.640" dur="00:00:05.620" style="left">Men jeg har kanskje<br />et dårlig forhold til familien.</p>
+      <p begin="00:12:42.560" dur="00:00:06.580" style="left">-Uten tvil, herr Skyteglad.<br />-Jeg kan ikke hjelpe deg, Maxine.</p>
+      <p begin="00:12:49.440" dur="00:00:07.800" style="left">Jeg er løvinne. Hvis du har lagt hånd<br />på ham, skal jeg kverke deg. Forstått?</p>
+      <p begin="00:13:00.560" dur="00:00:04.740" style="left">-Hvorfor tar du ikke igjen?<br />-Jeg vil ikke krangle.</p>
+      <p begin="00:13:05.600" dur="00:00:05.040" style="left">Tommy er heldig<br />som støttes av en løvinne.</p>
+      <p begin="00:13:21.520" dur="00:00:02.980" style="left">Du ser annerledes ut.</p>
+      <p begin="00:13:24.800" dur="00:00:05.600" style="left">-Gjør jeg det?<br />-Jepp. For du er ikke jomfru lenger.</p>
+      <p begin="00:13:31.640" dur="00:00:06.640" style="left">Sex er noen ekle greier,<br />men det er deilig også, ikke sant?</p>
+      <p begin="00:13:38.840" dur="00:00:02.740" style="left">Ikke sant?</p>
+      <p begin="00:13:41.880" dur="00:00:04.300" style="left">Fortell onkelpappa Felton om det.</p>
+      <p begin="00:13:46.480" dur="00:00:02.920" style="left">Se på meg!</p>
+      <p begin="00:13:53.360" dur="00:00:03.100" style="left">Luther!</p>
+      <p begin="00:13:56.760" dur="00:00:03.240" style="left">Hva gauler du for?</p>
+      <p begin="00:14:06.560" dur="00:00:05.420" style="left">-Vi har Jasons sæd.<br />-Jeg skal sløye fløtepusen din!</p>
+      <p begin="00:14:12.280" dur="00:00:05.260" style="left">Og Becky blir den neste.<br />Kom, Luther! Bufort! Timbo!</p>
+      <p begin="00:14:17.840" dur="00:00:04.880" style="left">-Du lovte å ikke skade ham!<br />-Det driter jeg i!</p>
+      <p begin="00:14:27.240" dur="00:00:05.660" style="left">-Kan du heve forbannelsen?<br />-Jeg er trøtt. Jeg har knapt sovet.</p>
+      <p begin="00:14:33.200" dur="00:00:05.100" style="left">Når du skjønner hvem den vampyren er,<br />blir du søvnløs.</p>
+      <p begin="00:14:38.600" dur="00:00:04.260" style="left">Han skjendet et hellig sted.</p>
+      <p begin="00:14:43.160" dur="00:00:06.140" style="left">-Ingenting er hellig for dem.<br />-Gudinnen beskytter oss.</p>
+      <p begin="00:14:49.600" dur="00:00:06.180" style="left">Bare gå. Folk er så brutale.<br />La meg være alene med de døde.</p>
+      <p begin="00:14:56.080" dur="00:00:05.180" style="left">Du må bli med oss og heve<br />forbannelsen over Eric Northman.</p>
+      <p begin="00:15:01.560" dur="00:00:06.140" style="left">Det kan jeg ikke! Det var ikke jeg<br />som forhekset ham. Det var henne.</p>
+      <p begin="00:15:08.000" dur="00:00:03.580" style="left">"Kan ikke"?<br /> Vi har ikke noe valg.</p>
+      <p begin="00:15:11.880" dur="00:00:04.780" style="left">-Hvem er hun?<br />-Jeg vet ikke hva hun heter.</p>
+      <p begin="00:15:16.960" dur="00:00:06.420" style="left">Ring henne på gudinnelinja<br />og si at hun skal heve forbannelsen.</p>
+      <p begin="00:15:23.680" dur="00:00:05.540" style="left">-Ånder er ikke lydige.<br />-Vampyrene dreper hele sirkelen.</p>
+      <p begin="00:15:29.520" dur="00:00:04.600" style="left">-Etter masse tortur.<br />-Og voldtekt.</p>
+      <p begin="00:15:37.560" dur="00:00:04.660" style="left">-Da er jeg nødt til å gjøre et forsøk.<br />-Takk.</p>
+      <p begin="00:15:42.520" dur="00:00:03.880" style="left">Bare si hva vi skal gjøre.</p>
+      <p begin="00:15:49.360" dur="00:00:02.660" style="left">Gudinne.</p>
+      <p begin="00:15:52.320" dur="00:00:03.140" style="left">Vennlige sjeler.</p>
+      <p begin="00:15:55.760" dur="00:00:02.900" style="left">Opplys vår vei.</p>
+      <p begin="00:15:58.960" dur="00:00:04.220" style="left">-Avslør deres gamle visdom.<br />-Redd oss.</p>
+      <p begin="00:16:03.480" dur="00:00:05.740" style="left">I denne vonde, tragiske verden,<br />vis oss barmhjertighet.</p>
+      <p begin="00:16:09.520" dur="00:00:03.200" style="left">Velsignet være!</p>
+      <p begin="00:16:14.240" dur="00:00:02.720" style="left">Kom igjen.</p>
+      <p begin="00:16:18.360" dur="00:00:03.700" style="left">Det er bare besvergelser.</p>
+      <p begin="00:16:22.360" dur="00:00:06.900" style="left">Besvergelser som leger sinnet,<br />som bringer minnene tilbake.</p>
+      <p begin="00:16:29.560" dur="00:00:05.680" style="left">Vi tyr til bøkene.<br />Det er nødt til å avsløre noe.</p>
+      <p begin="00:16:37.000" dur="00:00:07.20" style="left">Med feblodet i seg kan Eric dagvandre<br />en stund, men til slutt blir han stekt.</p>
+      <p begin="00:16:44.320" dur="00:00:06.240" style="left">Tiden er knapp, Alcide.<br />Hvis han dør, dreper Pam meg.</p>
+      <p begin="00:16:51.920" dur="00:00:05.500" style="left">Hei, Sookie!<br />Kom og lek med meg. Det er herlig her.</p>
+      <p begin="00:16:57.720" dur="00:00:03.900" style="left">Jeg er havguden Ægir.</p>
+      <p begin="00:17:01.920" dur="00:00:06.580" style="left">Det er alligatorer der, gærne viking.<br />Kom deg opp før du blir spist.</p>
+      <p begin="00:17:08.800" dur="00:00:06.60" style="left">Forlate sola og vannet? Nei.<br />Jeg skal drepe sjøuhyrene.</p>
+      <p begin="00:17:15.160" dur="00:00:04.20" style="left">Alligatorer.<br />Krokodiller!</p>
+      <p begin="00:17:19.480" dur="00:00:03.400" style="left">Vis dere!<br />Feiginger!</p>
+      <p begin="00:17:23.440" dur="00:00:04.620" style="left">-Han har virkelig forandret seg.<br />-Gå vekk fra henne!</p>
+      <p begin="00:17:28.360" dur="00:00:04.380" style="left">Alcide skal hjelpe deg.<br />Ikke slåss med ham.</p>
+      <p begin="00:17:33.040" dur="00:00:05.260" style="left">-Du skal dø, fillebikkje!<br />-Kom igjen, drittvampyr!</p>
+      <p begin="00:17:38.600" dur="00:00:07.440" style="left">Ikke vær så barnslige! Ikke knurr,<br />Alcide! Trekk inn tennene, Eric!</p>
+      <p begin="00:17:49.280" dur="00:00:05.800" style="left">-Jeg føler meg ikke så bra.<br />-Nå hører du kanskje på meg.</p>
+      <p begin="00:17:55.720" dur="00:00:04.700" style="left">Det gjør vondt, Sookie.<br />Blodet mitt brenner.</p>
+      <p begin="00:18:00.720" dur="00:00:05.100" style="left">Ja.<br />Du må vekk. I vampyrfart.</p>
+      <p begin="00:18:06.120" dur="00:00:04.320" style="left">Jeg vil ikke tilbake til mørket.</p>
+      <p begin="00:18:11.680" dur="00:00:05.760" style="left">-Jeg vil ikke at vi skal ...<br />-Hold pleddet rundt deg.</p>
+      <p begin="00:18:18.000" dur="00:00:03.880" style="left">Løp.<br />Vi er rett bak deg.</p>
+      <p begin="00:19:25.360" dur="00:00:02.520" style="left">Mamma?</p>
+      <p begin="00:19:28.480" dur="00:00:02.440" style="left">Mamma!</p>
+      <p begin="00:19:31.720" dur="00:00:04.280" style="left">-Melinda Mickens!<br />-Her borte!</p>
+      <p begin="00:19:36.720" dur="00:00:02.840" style="left">Her borte!</p>
+      <p begin="00:19:40.040" dur="00:00:04.220" style="left">Nå må jeg gå til brønnen igjen.</p>
+      <p begin="00:19:44.560" dur="00:00:05.580" style="left">Jeg har rappet en bil. Jeg kjører deg.<br />Er du ikke glad for å se meg?</p>
+      <p begin="00:19:50.440" dur="00:00:04.940" style="left">Jeg har drømt om deg.<br />Jeg ville ikke ergre deg.</p>
+      <p begin="00:19:55.680" dur="00:00:07.200" style="left">Men til slutt ringte jeg Merlotte's<br />og fikk vite hvem du bodde hos.</p>
+      <p begin="00:20:05.240" dur="00:00:05.900" style="left">-Jeg har savnet deg. Og da du sa ...<br />-Ikke gråt, du også.</p>
+      <p begin="00:20:11.440" dur="00:00:05.420" style="left">-Ta det som en mann.<br />-Har du endelig gått fra Joe Lee?</p>
+      <p begin="00:20:17.160" dur="00:00:04.100" style="left">Ja.<br />Jeg har gått fra ham.</p>
+      <p begin="00:20:21.560" dur="00:00:05.460" style="left">Nå ble jeg glad.<br />Hva sa du? Hvordan klarte du det?</p>
+      <p begin="00:20:27.320" dur="00:00:07.880" style="left">Vi tar det senere. Jeg vil høre om deg.<br />Se på deg. Voksen og selvstendig.</p>
+      <p begin="00:20:35.960" dur="00:00:03.620" style="left">-Jeg kan lese nå.<br />-Nei vel?</p>
+      <p begin="00:20:39.880" dur="00:00:04.780" style="left">Jeg er så stolt.<br />Alle sa du var dum, men ikke jeg.</p>
+      <p begin="00:20:44.960" dur="00:00:04.580" style="left">Sam skjøt meg i beinet.<br />Fordi han hater meg.</p>
+      <p begin="00:20:49.840" dur="00:00:04.580" style="left">Pang! Stort stygt hull der.<br />Men jeg kom meg.</p>
+      <p begin="00:20:54.720" dur="00:00:06.540" style="left">Tenk å skyte ungen min. Det var<br />lurt av meg å sette bort det barnet.</p>
+      <p begin="00:21:01.560" dur="00:00:04.900" style="left">Du hadde rett.<br />Han har aldri brydd seg om meg.</p>
+      <p begin="00:21:06.760" dur="00:00:05.920" style="left">Og vi bryr oss ikke om ham.<br />Du er min eneste ene.</p>
+      <p begin="00:21:13.480" dur="00:00:03.400" style="left">Gi meg en klem til.</p>
+      <p begin="00:21:34.920" dur="00:00:04.920" style="left">
+        <span style="italic"> -Hvem er det? </span>
+        <br />-Overraskelse. Det er Sam.</p>
+      <p begin="00:21:41.920" dur="00:00:05.580" style="left">-Hva gjør du her?<br />-Jeg ville hilse på ei vakker jente.</p>
+      <p begin="00:21:47.800" dur="00:00:07.260" style="left">-Det går ikke. Det passer dårlig.<br />-Jeg fulgte bare ditt eksempel.</p>
+      <p begin="00:21:55.360" dur="00:00:07.120" style="left">-Er vi fortsatt på bølgelengde?<br />-Ja da. Men du må ringe først.</p>
+      <p begin="00:22:02.960" dur="00:00:03.740" style="left">Så bare en av oss får være spontan?</p>
+      <p begin="00:22:07.000" dur="00:00:03.680" style="left">Mamma?<br />Hvem er du?</p>
+      <p begin="00:22:12.360" dur="00:00:03.000" style="left">Hvem er du?</p>
+      <p begin="00:22:15.800" dur="00:00:05.340" style="left">Du ser viktig ut.<br />Som en prinsesse eller<span style="italic"> cowgirl. </span></p>
+      <p begin="00:22:21.440" dur="00:00:06.220" style="left">Det er jeg også. Vi leker med<br />Barbie-dukker. Får han være med?</p>
+      <p begin="00:22:27.960" dur="00:00:03.460" style="left">Jo, få lov, da.</p>
+      <p begin="00:22:31.720" dur="00:00:04.220" style="left">Dette er min datter Emma, Sam.</p>
+      <p begin="00:22:36.240" dur="00:00:06.320" style="left">Hvilken Barbie-dukke får jeg?<br />Jeg håper hun har pene kjoler.</p>
+      <p begin="00:23:06.960" dur="00:00:05.960" style="left">-Jeg vil ikke sove.<br />-Du må hvile. Du ble stygt forbrent.</p>
+      <p begin="00:23:18.200" dur="00:00:02.500" style="left">Alt er leget.</p>
+      <p begin="00:23:21.000" dur="00:00:04.60" style="left">-Legg deg og lukk øynene.<br />-Nei.</p>
+      <p begin="00:23:25.360" dur="00:00:04.500" style="left">Holder du deg våken, får du blødninger.</p>
+      <p begin="00:23:30.160" dur="00:00:03.760" style="left">Du kan tørke det opp selv.</p>
+      <p begin="00:23:34.360" dur="00:00:02.960" style="left">Bli hos meg.</p>
+      <p begin="00:23:37.880" dur="00:00:03.20" style="left">Vær så snill.</p>
+      <p begin="00:23:41.200" dur="00:00:05.480" style="left">Kan ikke.<br />Jeg har noen menneskegreier å gjøre.</p>
+      <p begin="00:23:59.320" dur="00:00:03.720" style="left">-Det er galskap.<br />-Hysj.</p>
+      <p begin="00:24:13.480" dur="00:00:05.380" style="left">-Han kan ikke bo her.<br />-Du ser jo at han er forandret.</p>
+      <p begin="00:24:19.160" dur="00:00:03.540" style="left">Han er fortsatt en morder.</p>
+      <p begin="00:24:23.000" dur="00:00:02.460" style="left">Debbie Pelt, da?</p>
+      <p begin="00:24:25.760" dur="00:00:05.500" style="left">Hun er en morderisk dopmisbruker,<br />og hun bor hos deg.</p>
+      <p begin="00:24:31.560" dur="00:00:06.360" style="left">-Hun må ikke gjøre deg mer vondt.<br />-Jeg sier det samme om Eric.</p>
+      <p begin="00:24:39.960" dur="00:00:02.720" style="left">Kom hit.</p>
+      <p begin="00:24:47.520" dur="00:00:04.340" style="left">Jeg er på din side.<br />Uansett hva som skjer.</p>
+      <p begin="00:24:52.160" dur="00:00:03.160" style="left">I like måte.</p>
+      <p begin="00:24:56.080" dur="00:00:02.800" style="left">Venner?</p>
+      <p begin="00:25:00.040" dur="00:00:02.880" style="left">Venner.</p>
+      <p begin="00:25:05.600" dur="00:00:04.080" style="left">-Hold kontakten.<br />-Vær sikker.</p>
+      <p begin="00:26:08.680" dur="00:00:03.000" style="left">Ha det, jævel.</p>
+      <p begin="00:26:12.400" dur="00:00:03.860" style="left">-Hei, baby.<br />-Hold deg der.</p>
+      <p begin="00:26:16.560" dur="00:00:06.420" style="left">Luther og Timbo kommer. Ingen fare.<br />Jeg er den store mammapusen nå.</p>
+      <p begin="00:26:23.280" dur="00:00:03.180" style="left">Alle skal gjøre som jeg sier.</p>
+      <p begin="00:26:26.760" dur="00:00:05.140" style="left">Felton klorte deg.<br />Jeg skal gni litt jord på det.</p>
+      <p begin="00:26:32.200" dur="00:00:05.860" style="left">Vi kan være sammen nå.<br />Vi skal være maker resten av livet.</p>
+      <p begin="00:26:38.360" dur="00:00:05.820" style="left">Vi er en katastrofe.<br />Du er det verste som har skjedd meg.</p>
+      <p begin="00:26:44.480" dur="00:00:05.260" style="left">-Du snakker i ørska.<br />-Stå stille, ellers dreper jeg deg.</p>
+      <p begin="00:26:50.040" dur="00:00:07.780" style="left">Bon Temps er ikke hjemmet ditt lenger.<br />Du blir pantermann og klanens åndefar.</p>
+      <p begin="00:26:58.120" dur="00:00:04.500" style="left">-Ikke faen.<br />-Du må bo i Hot Shot.</p>
+      <p begin="00:27:02.920" dur="00:00:06.60" style="left">Hvis jeg ikke ser deg<br />og det hølet før om hundre år, -</p>
+      <p begin="00:27:09.280" dur="00:00:04.840" style="left">- vil det fortsatt være altfor tidlig.</p>
+      <p begin="00:27:16.480" dur="00:00:04.760" style="left">Jeg venter på deg, Jason!<br />Ved fullmåne!</p>
+      <p begin="00:27:22.040" dur="00:00:02.160" style="left">
+        <span style="italic"> Bill? </span>
+      </p>
+      <p begin="00:27:25.200" dur="00:00:04.420" style="left">Du har ikke hørt et ord av det jeg sa.</p>
+      <p begin="00:27:29.920" dur="00:00:03.620" style="left">Unnskyld.<br />Jeg er tankespredt.</p>
+      <p begin="00:27:33.840" dur="00:00:04.620" style="left">Jeg tror du gruer deg til<br />å treffe bestemor.</p>
+      <p begin="00:27:38.760" dur="00:00:06.560" style="left">Hun lar deg vente. Hun liker<br />å gjøre kavalerene mine nervøse.</p>
+      <p begin="00:27:49.800" dur="00:00:04.620" style="left">Dette er<br />min venn og klient William Compton.</p>
+      <p begin="00:27:54.720" dur="00:00:05.340" style="left">-Caroline Bellefleur.<br />-Min hustru het Caroline.</p>
+      <p begin="00:28:00.360" dur="00:00:05.680" style="left">-Det er en ære å hilse på deg.<br />-Vennligst sett deg.</p>
+      <p begin="00:28:06.840" dur="00:00:04.440" style="left">-Ha det! Snart tilbake!<br />-Andrew.</p>
+      <p begin="00:28:17.120" dur="00:00:04.620" style="left">-Andrew.<br />-Bill. Portia.</p>
+      <p begin="00:28:22.040" dur="00:00:05.820" style="left">Det er te på kjøkkenet, Portia.<br />TruBlood til deg, Bill?</p>
+      <p begin="00:28:28.160" dur="00:00:05.500" style="left">-Jeg tar en Red Bull, takk.<br />-Nei. Det er vulgært.</p>
+      <p begin="00:28:33.960" dur="00:00:02.660" style="left">Han tar iste.</p>
+      <p begin="00:28:36.920" dur="00:00:06.700" style="left">-Fortell oss om dagen din, kjære.<br />-Jeg tok den blotteren fra Glenville.</p>
+      <p begin="00:28:43.920" dur="00:00:05.460" style="left">Andy, da.<br />Vi snakker ikke om sånt i salongen.</p>
+      <p begin="00:28:49.680" dur="00:00:02.60" style="left">Nei, nei.</p>
+      <p begin="00:28:52.040" dur="00:00:07.60" style="left">Jeg har prøvd å lære sønnesønnen min<br />kunsten å konversere dannet.</p>
+      <p begin="00:28:59.400" dur="00:00:06.900" style="left">Men han er politimann. Han plikter<br />å utøve vaktsomhetens kunst.</p>
+      <p begin="00:29:06.600" dur="00:00:04.60" style="left">-Som er det helt motsatte.<br />-Takk.</p>
+      <p begin="00:29:10.960" dur="00:00:03.100" style="left">Du er dreven, Mr. Compton.</p>
+      <p begin="00:29:14.360" dur="00:00:03.740" style="left">-Nei.<br />-Jo. Du må pusse tennene.</p>
+      <p begin="00:29:18.400" dur="00:00:06.100" style="left">Ellers vil masse småkryp<br />leke mor og barn i munnen din.</p>
+      <p begin="00:29:24.800" dur="00:00:07.280" style="left">-Etterpå kan vi si god natt til Sam.<br />-Jeg gjør det selv. Bli sittende, Sam.</p>
+      <p begin="00:29:35.040" dur="00:00:03.520" style="left">Hun er viljesterk.</p>
+      <p begin="00:29:39.760" dur="00:00:06.960" style="left">-Hun ligner litt for mye på faren sin.<br />-Eller moren sin, kanskje?</p>
+      <p begin="00:29:48.880" dur="00:00:04.540" style="left"> Mange hamløperbarn er ulykkelige.</p>
+      <p begin="00:29:53.720" dur="00:00:07.560" style="left">De forakter alle. De forakter seg selv.<br />Blir hun sånn, blir jeg sønderknust.</p>
+      <p begin="00:30:02.320" dur="00:00:05.580" style="left">Du kunne fortalt meg om henne.<br />Jeg liker barn. Jeg flykter ikke.</p>
+      <p begin="00:30:08.200" dur="00:00:04.160" style="left">-Virker jeg som en sånn fyr?<br />-Nei.</p>
+      <p begin="00:30:13.960" dur="00:00:05.300" style="left">Men jeg må være forsiktig.<br />Veldig forsiktig.</p>
+      <p begin="00:30:19.560" dur="00:00:02.840" style="left">Fortsett.</p>
+      <p begin="00:30:23.680" dur="00:00:03.480" style="left">Eksen min er varulv.</p>
+      <p begin="00:30:28.080" dur="00:00:05.420" style="left">Jeg var ung, og han var en råtass.<br />Alle sa nei, så jeg sa ja.</p>
+      <p begin="00:30:33.800" dur="00:00:04.280" style="left">-Jeg er så klisjéaktig.<br />-Nei da.</p>
+      <p begin="00:30:39.760" dur="00:00:07.240" style="left">Det er du ikke. Vi treffer valg.<br />Vi vet ikke hva konsekvensen blir.</p>
+      <p begin="00:30:47.760" dur="00:00:04.60" style="left">Men du kom deg vekk fra en varulv.</p>
+      <p begin="00:30:52.120" dur="00:00:03.320" style="left">Ikke helt vekk.</p>
+      <p begin="00:30:56.600" dur="00:00:03.60" style="left">Holder han øye med deg?</p>
+      <p begin="00:30:59.960" dur="00:00:06.60" style="left">Han kjører forbi iblant. Kommer på<br />uventet besøk. Han er glad i Emma.</p>
+      <p begin="00:31:06.320" dur="00:00:07.360" style="left">Han er sjalu, så hvis jeg får<br />et nært forhold til noen ... Deg, ja.</p>
+      <p begin="00:31:14.280" dur="00:00:03.980" style="left">Da vet jeg ikke hva han finner på.</p>
+      <p begin="00:31:18.560" dur="00:00:06.200" style="left">-Det er god grunn til å flykte.<br />-Ser det ut som jeg flykter?</p>
+      <p begin="00:31:27.960" dur="00:00:05.780" style="left">-Jeg setter meg ved siden av deg.<br />-Det håpet jeg.</p>
+      <p begin="00:31:34.040" dur="00:00:03.240" style="left">-Vær så god.<br />-Takk.</p>
+      <p begin="00:31:42.320" dur="00:00:06.640" style="left">-Hva driver hun med?<br />-Leter etter den rette besvergelsen.</p>
+      <p begin="00:31:52.520" dur="00:00:06.560" style="left">-Jeg finner ingenting.<br />-Forsiktig. Den er over 100 år gammel.</p>
+      <p begin="00:32:00.360" dur="00:00:06.640" style="left">-Kanskje vi skal prøve noe annet.<br />-Jeg vet ikke hva det skal bli.</p>
+      <p begin="00:32:07.480" dur="00:00:06.920" style="left">Jeg påkaller dere for tusende gang,<br />trofaste skytsånder.</p>
+      <p begin="00:32:15.960" dur="00:00:04.360" style="left">Hvorfor har dere sviktet meg?</p>
+      <p begin="00:32:21.720" dur="00:00:03.520" style="left">Det er ute med oss!</p>
+      <p begin="00:32:27.160" dur="00:00:02.360" style="left">Hva i ...</p>
+      <p begin="00:32:43.080" dur="00:00:05.660" style="left">"For å helbrede dem<br /> som har drukket av elva Lethe ..."</p>
+      <p begin="00:32:49.040" dur="00:00:04.780" style="left">Gresk mytologi.<br />Elva i Hades. Glemselens elv.</p>
+      <p begin="00:32:54.120" dur="00:00:03.220" style="left">-Vi fant det.<br />-Vi må ringe Pam.</p>
+      <p begin="00:32:57.640" dur="00:00:05.920" style="left">"Tegn sirkelen din<br /> i lyset fra månen Artemis."</p>
+      <p begin="00:33:04.320" dur="00:00:03.320" style="left">-Deb?<br />-I hulen.</p>
+      <p begin="00:33:11.040" dur="00:00:07.040" style="left">-Du måtte jobbe overtid, ja.<br />-Hadde noe å ta igjen. Hei, elskling.</p>
+      <p begin="00:33:25.480" dur="00:00:04.280" style="left">-Har du forvandlet deg i dag?<br />-Ja.</p>
+      <p begin="00:33:30.640" dur="00:00:06.760" style="left">-Hvorfor gjorde du det?<br />-Det var ikke min idé. Sookie ringte.</p>
+      <p begin="00:33:38.320" dur="00:00:06.500" style="left">Måtte dra til Bon Temps.<br />Hun trengte ulvehjelp med en vampyr.</p>
+      <p begin="00:33:45.120" dur="00:00:02.540" style="left">-I dagslys?<br />-Ja.</p>
+      <p begin="00:33:47.960" dur="00:00:06.820" style="left">Han ble stekt. Vi måtte fange ham<br />og legge ham under jorda i full fart.</p>
+      <p begin="00:33:55.080" dur="00:00:06.480" style="left">-Går det bra med Sookie?<br />-Ja. Men hun er i fare stadig vekk.</p>
+      <p begin="00:34:02.640" dur="00:00:03.400" style="left">Du er vel ikke sint?</p>
+      <p begin="00:34:07.160" dur="00:00:05.20" style="left">Det er ikke noe å være sint for.<br />Vi er ærlige.</p>
+      <p begin="00:34:12.480" dur="00:00:06.240" style="left">Takk for at du fortalte meg det.<br />Du er snill som hjelper henne.</p>
+      <p begin="00:34:19.600" dur="00:00:04.320" style="left">Det er utrolig som du har vokst.</p>
+      <p begin="00:34:34.160" dur="00:00:06.080" style="left">Du er i min seng, gutt.<br />Jeg er ikke noe redd for Sookie.</p>
+      <p begin="00:34:41.280" dur="00:00:07.580" style="left">Min mann Joseph var sønn av Arthur<br />Bellefleur. Arthur var sønn av James.</p>
+      <p begin="00:34:49.160" dur="00:00:06.540" style="left">Jeg kan ikke sitte her hele kvelden<br />og være vaktsom. Arbeidet kaller.</p>
+      <p begin="00:34:56.000" dur="00:00:05.560" style="left">Så dra, da.<br />Det er ingen som holder deg fanget.</p>
+      <p begin="00:35:02.120" dur="00:00:03.500" style="left">-Ha det!<br />-Han drikker igjen.</p>
+      <p begin="00:35:05.920" dur="00:00:04.500" style="left">Det vet vi ikke.<br />Han har en stressende jobb.</p>
+      <p begin="00:35:10.720" dur="00:00:07.600" style="left">-Man skal ikke degge med menn, Bill.<br />-Jo da. Jeg liker å bli degget med.</p>
+      <p begin="00:35:18.760" dur="00:00:04.380" style="left">Din manns bestefar<br />het James Bellefleur.</p>
+      <p begin="00:35:23.440" dur="00:00:04.700" style="left">Og han var<br />Jedediah Bellefleurs etterkommer.</p>
+      <p begin="00:35:28.440" dur="00:00:04.700" style="left">Og faren til James ...<br />Jeg husker det ikke.</p>
+      <p begin="00:35:33.440" dur="00:00:05.420" style="left">Før kunne jeg ti generasjoner utenat.</p>
+      <p begin="00:35:39.160" dur="00:00:05.660" style="left">Henter du bibelen til meg?<br />Takk, kjære. Og litt whisky.</p>
+      <p begin="00:35:45.120" dur="00:00:04.180" style="left">Så synd.<br />Det er umulig å lese.</p>
+      <p begin="00:35:49.600" dur="00:00:03.780" style="left">-Får jeg lov?<br />-Vampyrsyn.</p>
+      <p begin="00:35:53.680" dur="00:00:07.840" style="left">Josephs far Arthur var sønn av<br />James Bellefleur og Elizabeth Harris.</p>
+      <p begin="00:36:02.640" dur="00:00:04.840" style="left">-Harris?<br />-Ja, hun var datteren til ...</p>
+      <p begin="00:36:10.080" dur="00:00:05.380" style="left">-Du kan ikke ...<br />-Det forstår jeg. Jeg visste det ikke.</p>
+      <p begin="00:36:15.760" dur="00:00:05.260" style="left">-Jeg tror deg. Men du kan ikke ...<br />-Naturligvis ikke.</p>
+      <p begin="00:36:21.320" dur="00:00:05.320" style="left">Unnskyld meg.<br />Jeg føler meg ikke helt bra.</p>
+      <p begin="00:36:27.280" dur="00:00:02.560" style="left">God natt.</p>
+      <p begin="00:36:30.680" dur="00:00:04.680" style="left">-Går det bra, bestemor?<br />-Ja da, kjære.</p>
+      <p begin="00:36:35.920" dur="00:00:03.180" style="left">Jeg må gå.</p>
+      <p begin="00:36:39.400" dur="00:00:05.400" style="left">Du kan ikke bli med meg.<br />Vi kan ikke treffes mer.</p>
+      <p begin="00:36:50.560" dur="00:00:07.800" style="left">Du kan ikke bare gå. Jeg er advokat.<br />Jeg er en terrier. Jeg gir meg ikke.</p>
+      <p begin="00:37:00.160" dur="00:00:05.220" style="left">Elizabeth Harris var<br />Sarah Comptons datter.</p>
+      <p begin="00:37:05.680" dur="00:00:06.520" style="left">Sarah var datteren min.<br />Du er tipp-tipp-oldebarnet mitt.</p>
+      <p begin="00:37:21.640" dur="00:00:03.860" style="left">Der er broren og søstera di, Mikey.</p>
+      <p begin="00:37:25.800" dur="00:00:06.520" style="left">De skal lære deg alt mulig<br />og forsvare deg mot fiendene dine.</p>
+      <p begin="00:37:35.240" dur="00:00:05.100" style="left">Og der er mammaen din.<br />Verdens vakreste mamma.</p>
+      <p begin="00:37:40.640" dur="00:00:06.920" style="left">Og jeg er pappaen din. Jeg skal<br />lære deg å jakte og skyte og fiske.</p>
+      <p begin="00:37:49.080" dur="00:00:04.600" style="left">Og å ta klær ut av tørketrommelen.</p>
+      <p begin="00:37:55.840" dur="00:00:04.240" style="left">Sitt der, du.<br />Jeg er straks tilbake.</p>
+      <p begin="00:38:04.200" dur="00:00:02.640" style="left">Mamma ...</p>
+      <p begin="00:38:13.800" dur="00:00:02.400" style="left">Her er pappa.</p>
+      <p begin="00:38:16.720" dur="00:00:03.20" style="center">Baby ikke din</p>
+      <p begin="00:38:20.040" dur="00:00:02.720" style="left">Hva er det?</p>
+      <p begin="00:38:35.960" dur="00:00:05.760" style="left">-Det ligner ikke deg å være så stille.<br />-Jo.</p>
+      <p begin="00:38:42.600" dur="00:00:04.640" style="left">-Nei. Den ekte Eric ...<br />-Jeg er ekte!</p>
+      <p begin="00:38:47.640" dur="00:00:02.780" style="left">Ja.</p>
+      <p begin="00:38:50.720" dur="00:00:06.220" style="left">Det er du. Jeg mente Eric med minnene<br />i behold. Han er sjelden nedfor.</p>
+      <p begin="00:38:57.240" dur="00:00:06.380" style="left">Han er en rakker, og jeg får lyst til<br />å tørke fliret av ham.</p>
+      <p begin="00:39:03.920" dur="00:00:04.400" style="left">Men han er en fornøyd vampyr.</p>
+      <p begin="00:39:09.120" dur="00:00:04.780" style="left">Jeg får aldri bade i solskinnet mer.</p>
+      <p begin="00:39:14.200" dur="00:00:04.160" style="left">Aldri kjenne varmen mot huden.</p>
+      <p begin="00:39:20.040" dur="00:00:03.940" style="left">Aldri se dagslyset i håret ditt.</p>
+      <p begin="00:39:24.280" dur="00:00:06.080" style="left">Natta er ikke så ille.<br />Du får se stjernene og himmelen.</p>
+      <p begin="00:39:32.840" dur="00:00:03.360" style="left">Jeg er ikke noe barn.</p>
+      <p begin="00:39:38.120" dur="00:00:04.420" style="left">Jeg skulle ønske jeg kunne trøste deg.</p>
+      <p begin="00:39:42.840" dur="00:00:03.180" style="left">-Syns du jeg er svak?<br />-Nei.</p>
+      <p begin="00:39:46.320" dur="00:00:07.440" style="left">Du vil ha en Eric som ikke føler noe.<br />Hvis du kysser meg, blir jeg glad.</p>
+      <p begin="00:39:58.920" dur="00:00:03.480" style="left">-Nei.<br />-Hvorfor ikke?</p>
+      <p begin="00:40:06.160" dur="00:00:03.440" style="left">Det er bare et kyss.</p>
+      <p begin="00:40:13.240" dur="00:00:03.720" style="left">Det er noen utenfor døra di.</p>
+      <p begin="00:40:17.520" dur="00:00:03.320" style="left">Ikke kom opp.</p>
+      <p begin="00:40:27.480" dur="00:00:03.180" style="left">-Sookie.<br />-Bill.</p>
+      <p begin="00:40:30.960" dur="00:00:06.040" style="left">-Alt vel? Du ser godt ut.<br />-Du også. Jeg har det bra.</p>
+      <p begin="00:40:37.920" dur="00:00:03.200" style="left">Hva vil du?</p>
+      <p begin="00:40:42.440" dur="00:00:03.540" style="left">-Eric.<br />-Han har dratt.</p>
+      <p begin="00:40:46.280" dur="00:00:05.480" style="left">-Du ba meg om å få ham ut herfra.<br />-Og så dro han.</p>
+      <p begin="00:40:53.040" dur="00:00:04.520" style="left">Jeg trodde du hadde hjulpet meg.</p>
+      <p begin="00:40:58.560" dur="00:00:04.240" style="left">-Sa han hvor han skulle?<br />-Nei.</p>
+      <p begin="00:41:03.800" dur="00:00:05.980" style="left">Du skjønner at ...<br />Vi har sjekket gården hans på Öland, -</p>
+      <p begin="00:41:10.080" dur="00:00:05.60" style="left">- leiligheten hans i Paris<br />  og plantasjen på Barbados.</p>
+      <p begin="00:41:15.440" dur="00:00:05.300" style="left">Dette er det eneste stedet<br />vaktene mine ikke har sjekket.</p>
+      <p begin="00:41:21.040" dur="00:00:03.700" style="left">-Med din tillatelse ...<br />-Eller uten.</p>
+      <p begin="00:41:25.040" dur="00:00:05.540" style="left">-De bøllene får ikke trampe rundt her.<br />-Det blir bare meg.</p>
+      <p begin="00:41:30.880" dur="00:00:07.280" style="left">Dette er fortsatt hjemmet mitt.<br />Det blir ikke snakk om noen leting.</p>
+      <p begin="00:41:39.640" dur="00:00:03.360" style="left">-Beklager.<br />-Nei.</p>
+      <p begin="00:41:50.360" dur="00:00:02.340" style="left">Hvordan kan du?</p>
+      <p begin="00:41:53.000" dur="00:00:06.320" style="left">Hvorfor stoler du ikke på meg?<br />Jeg har aldri løyet for deg.</p>
+      <p begin="00:42:13.680" dur="00:00:02.960" style="left">Du har helt rett.</p>
+      <p begin="00:42:24.680" dur="00:00:02.400" style="left">God natt.</p>
+      <p begin="00:43:24.080" dur="00:00:04.240" style="left">Stans, Hoyt!<br />Det ligger noen der.</p>
+      <p begin="00:43:32.400" dur="00:00:03.320" style="left">Jøss!<br />Det er Jason!</p>
+      <p begin="00:43:37.080" dur="00:00:03.680" style="left">-Jason?<br />-Vi skal hjelpe deg.</p>
+      <p begin="00:43:44.280" dur="00:00:02.840" style="left">Drikk, Jason.</p>
+      <p begin="00:43:48.520" dur="00:00:02.880" style="left">Drikk, Jason.</p>
+      <p begin="00:44:02.040" dur="00:00:05.540" style="left">Hadde vi hatt ei bok,<br />kunne du lest den for meg.</p>
+      <p begin="00:44:07.880" dur="00:00:05.580" style="left">Hvis det er et ord man ikke kan,<br />sier man bokstavene høyt.</p>
+      <p begin="00:44:13.760" dur="00:00:07.700" style="left">Man setter dem sammen og hører på det,<br />og plutselig skjønner man ordet.</p>
+      <p begin="00:44:21.760" dur="00:00:06.140" style="left">Jeg er så stolt at jeg nesten sprekker.<br />Sønnen min har utdannelse.</p>
+      <p begin="00:44:28.200" dur="00:00:02.920" style="left">Det føles godt.</p>
+      <p begin="00:44:35.920" dur="00:00:04.900" style="left">Har Joe Lee<br />kastet deg inn i ringen igjen?</p>
+      <p begin="00:44:41.120" dur="00:00:05.420" style="left">Jeg ser arrene på halsen din.<br />Du var døden nær.</p>
+      <p begin="00:44:46.840" dur="00:00:04.740" style="left">Det var en rottweiler.<br />Mager liten tass.</p>
+      <p begin="00:44:51.880" dur="00:00:06.540" style="left">Jeg tenkte jeg skulle drepe den kjapt,<br />skifte og ta en øl. Men den gang ei.</p>
+      <p begin="00:44:58.720" dur="00:00:06.460" style="left">Man vet aldri hvordan det går.<br />Og du er for gammel til å slåss.</p>
+      <p begin="00:45:05.480" dur="00:00:06.780" style="left">Hadde ikke faren din slått den med<br />et jernrør, ville du mistet mora di.</p>
+      <p begin="00:45:12.560" dur="00:00:05.260" style="left">Jævla Joe Lee.<br />Jeg skulle latt bikkjene gå løs på ham.</p>
+      <p begin="00:45:18.120" dur="00:00:06.720" style="left">-Nei, han reddet livet mitt.<br />-Du forlot ham, men forsvarer ham?</p>
+      <p begin="00:45:36.600" dur="00:00:03.620" style="left">-Hun forlater meg aldri.<br />-Du løy!</p>
+      <p begin="00:45:40.520" dur="00:00:03.620" style="left">Vi klarer oss ikke uten deg!</p>
+      <p begin="00:45:44.440" dur="00:00:04.740" style="left">Arrene er din skyld!<br />Du behandlet oss som dritt!</p>
+      <p begin="00:45:49.480" dur="00:00:05.300" style="left">-Nå skal jeg dressere deg.<br />-Ikke skad ham stygt.</p>
+      <p begin="00:45:55.080" dur="00:00:06.560" style="left">Du skal lære deg å lystre.<br />Du skal bli lojal mot familien din.</p>
+      <p begin="00:46:02.240" dur="00:00:05.400" style="left">Du har trukket pusten i frihet<br />for siste gang.</p>
+      <p begin="00:46:16.640" dur="00:00:04.980" style="left">Skal jeg lege vampyren<br />uten at han er her?</p>
+      <p begin="00:46:21.920" dur="00:00:03.260" style="left">Ellers biter jeg huet av deg.</p>
+      <p begin="00:46:25.480" dur="00:00:05.660" style="left">Får dere ikke opphevet forbannelsen,<br />er Eric så godt som død.</p>
+      <p begin="00:46:31.440" dur="00:00:06.980" style="left">-Du er ikke trygg, du heller.<br />-Du er velkommen i fangehullet mitt.</p>
+      <p begin="00:46:38.720" dur="00:00:03.540" style="left">-Les det.<br />-Hvor er brillene mine?</p>
+      <p begin="00:46:42.560" dur="00:00:04.780" style="left">Er du åndssvak, for faen?<br />Hun må gjøre noe, for faen.</p>
+      <p begin="00:46:47.640" dur="00:00:05.920" style="left">Hold opp med å si "faen".<br />Jeg får ikke konsentrert meg.</p>
+      <p begin="00:46:55.440" dur="00:00:03.600" style="left">Nord, sør, øst, vest.</p>
+      <p begin="00:46:59.720" dur="00:00:03.480" style="left">Nord, sør, øst, vest.</p>
+      <p begin="00:47:09.040" dur="00:00:06.680" style="left">Mnemosyne, erindingens gudinne,<br />tidens gudinne ...</p>
+      <p begin="00:47:17.040" dur="00:00:04.940" style="left">Helbred<br />din fortapte sønn Eric Northman.</p>
+      <p begin="00:47:22.280" dur="00:00:03.700" style="left">Bad ham i Hades, i erindringens ...</p>
+      <p begin="00:47:26.280" dur="00:00:03.080" style="left">Det er bare tull.</p>
+      <p begin="00:47:32.440" dur="00:00:05.740" style="left">Jeg har ikke tid til det, megge.<br />Helbred skaperen min.</p>
+      <p begin="00:47:38.480" dur="00:00:02.460" style="left">Dø!</p>
+      <p begin="00:47:41.240" dur="00:00:04.280" style="left">Gå i oppløsning!<br />Visne! Råtne!</p>
+      <p begin="00:48:05.520" dur="00:00:04.300" style="left">Ditt uhellige vandrende lik.</p>
+      <p begin="00:48:10.120" dur="00:00:03.280" style="left">Se ditt sanne jeg. </p>
+    </div>
+  </body>
+</tt>
