@@ -3,21 +3,25 @@ For this to work until xmldoc has been updated with an option to add text as chi
 You have to manually change the method XmlElement.prototype._text to:
 
 XmlElement.prototype._text = function(text) {
-  if (text) this.val += text;
+  if (text) { 
+    this.val += text;
+    
+    // create nodes for text value also
+    text = text.trim();
+    if(text.length){
+      var child = new XmlElement({ name: 'text' });
+      child.val = text;
 
-  text = text.trim();
-  if(text.length){
-	var child = new XmlElement({name:'text'});
-  
-	// add to our children array
-	this.children.push(child);
+      // add to our children array
+      this.children.push(child);
 
-	// update first/last pointers
-	if (!this.firstChild) this.firstChild = child;
-	this.lastChild = child;
+      // update first/last pointers
+      if (!this.firstChild) this.firstChild = child;
+      this.lastChild = child;
 
-	delegates.unshift(child);
-	delegates.shift(child);
+      delegates.unshift(child);
+      delegates.shift();
+    }
   }
 }
 
