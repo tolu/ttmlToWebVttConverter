@@ -3,7 +3,7 @@ var xmldoc = require('xmldoc'),
     util = require('util');
 
 var out = [];
-var filename = "captions_true_blood_short.ttml";
+var filename = "ttml/true_blood_short.ttml";
 
 var stylePropToTagNameMap = {
     italic : 'i',
