@@ -1,3 +1,27 @@
+/*
+For this to work until xmldoc has been updated with an option to add text as child nodes.
+You have to manually change the method XmlElement.prototype._text to:
+
+XmlElement.prototype._text = function(text) {
+  if (text) this.val += text;
+
+  text = text.trim();
+  if(text.length){
+	var child = new XmlElement({name:'text'});
+  
+	// add to our children array
+	this.children.push(child);
+
+	// update first/last pointers
+	if (!this.firstChild) this.firstChild = child;
+	this.lastChild = child;
+
+	delegates.unshift(child);
+	delegates.shift(child);
+  }
+}
+
+*/
 var xmldoc = require('xmldoc'), 
     fs = require('fs'),
     util = require('util');
@@ -12,7 +36,7 @@ var stylePropToTagNameMap = {
 }
 var timeMultMap = [3600, 60, 1]; 
 
-fs.readFile(filename, 'utf8', function (err, data) { 
+fs.readFile(filename, 'utf8', function (err, data) {
     if(err) throw err; 
 
     var doc = new xmldoc.XmlDocument(data);
