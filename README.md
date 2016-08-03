@@ -54,5 +54,9 @@ for at du skjenker oss nytt liv.
  * Size and Color
  * Classes
 
+## License
+
+MIT @ https://tolu.mit-license.org/
+
 [ttml-w3]: http://www.w3.org/TR/ttaf1-dfxp/
 [webvtt-ref]:http://dev.w3.org/html5/webvtt/
